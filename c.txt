@@ -1,0 +1,1 @@
+this file shoud go to commit area without staged
